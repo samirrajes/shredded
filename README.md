@@ -1,4 +1,4 @@
-# Shredded
+# shredded
 
 "Shredded" is a creative coding project that uses a flowfield framework to simulate the appearance of shredded paper. This sketch dynamically links points through lines whose transparency varies with their proximity, creating a dense, interconnected pattern. The visual complexity is generated using Perlin noise, which influences both movement and connection of particles within the canvas, creating an unpredictable and organically evolving visual effect.
 
